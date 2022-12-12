@@ -13,6 +13,7 @@ GET: Get a user by thier ID
 PUT: Update a user by ID
 DELETE: Delete a user by thier ID (Check if the user still has an issued book && is there any fine to be collected from the user)
 
+<!-- complex -->
 ## /users/subscription-details/{id}
 GET: Get user subscription details
 1. Date of Subscription
@@ -30,6 +31,7 @@ PUT: Update a book by Id
 ## /books/issued
 GET: Get all issued books here
 
+<!-- Its assignment -->
 ## /books/issued/withFine
 GET: Get all issued books with fine
 
