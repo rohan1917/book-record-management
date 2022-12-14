@@ -48,3 +48,14 @@ If user has an issued book and the issued book is to be returned at 09-12-22
 If user missed the date to return, and the users subscription also got expired, then user need to pay a fine of 150/- (100+50)
 
 
+
+
+<!-- 
+MVC Arch
+    >> Model View Controller
+    >> Model & Controller r wrt b/c end
+    >> view wrt to f/e end
+    >> Controller : Brain or logic of ur route
+ -->
+
+ <!-- model: It speaks abt the structure of MongoDB Collection -->
